@@ -1,3 +1,3 @@
-A django web app that uses machine learning to determine whether a recipe is for a cupcake or a muffin.
+A django web app that for blood blood donation organizations to manage their data cleanly and efficiently.
 
 <img src="https://github.com/divinesaun/blood_donation/blob/main/screenshot.png">
